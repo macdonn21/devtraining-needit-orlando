@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Needme</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Needme</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">98fd9996db20101087d79444ca9619d1</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-06 21:51:54</sys_created_on>
+        <sys_id>bd66c1badb60101087d79444ca9619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needme</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_wizard_answer_bd66c1badb60101087d79444ca9619d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 21:51:54</sys_updated_on>
+        <table/>
+        <target_url>x_58872_needit_needme.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
